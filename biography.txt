@@ -1,8 +1,7 @@
 Your first assignment is to use GitHub to submit some autobiographical information about yourself.  Answer the following questions.  Use GitHub to submit the resulting text file.
 1. Alexander Merryfield
-2. Why are you interested in Data Science?
-3. Tell us a little bit about your programming experience.  What programming courses have you taken?  Do you use programming on the job, and if so, how?
-4.  Tell us a little bit about your statistics experience.  What statistics courses have you taken?  Do you use statistics on the job, and if so, how?
-5.  Do you have other experience with R or Python?
-6.  What do you hope to learn in this class?
-7.  Is there anything else you would like to share with us?
+2. I am interested in learning how to solve large scale challanges and to be able to spot problems in large amounts of data. 
+3. I took a couple of programing courses in college, but that was a very long time ago. I have used R in my job for about a year now, so while I am not an expert, I know my way around and have developed larger(relative to a beginner ~400 lines) applications using the language. I have never used Python. 
+5.  No. As stated above, just with work in R and I have no experience in Python. 
+6.  I would like to learn a solid foundation in both languages. While I have more experience in R, I am sure there are many things for me to learn that will be useful going forward. 
+7.  I have nothing else to add other than I look forward to learning from everyone in the class.  
